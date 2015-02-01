@@ -4,4 +4,5 @@ alert(hello);
 function mortderire (){
 	var test2="mort de rire";
 }
-var lol="On modifie depuis github"
+var lol="On modifie depuis github";
+echo lol;
